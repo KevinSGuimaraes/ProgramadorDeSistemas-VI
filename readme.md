@@ -78,7 +78,7 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 
 ## Calendário
 
-Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas-V/blob/main/Imagens/Calendario.pdf).
+Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas-VI/blob/main/Imagens/Calendario.pdf).
 
 # Critérios de Frequência e Aproveitamento
 
