@@ -9,7 +9,7 @@ Bem-vindo ao repositório do Curso de Programador de Sistemas oferecido pelo SEN
 - **Banco de Dados**
 
 ## Atividades do Beecrowd
-<!--
+
 Realizar as atividades 
 
 -------------INICIANTE---------------  
@@ -17,7 +17,7 @@ Realizar as atividades
 #1005 | #1006 | #1007 | #1008 | #1009  
 #1010 | #1011 | #1012 | #1013 | #1014  
 #1015 | #1016 | #1017 | #1018 | #1019  
-#1020 | #1021 | #1035 | #1036 | #1037  
+<!--#1020 | #1021 | #1035 | #1036 | #1037  
 #1049 | #2544 | #2310 | #2313 | #2221  
 #2234 | #1963 | #1961 | #2162 | #2203  
 #1865  
